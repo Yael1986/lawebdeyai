@@ -1,0 +1,32 @@
+/* color primario: #F5CAC3
+color secundario: #84A59D
+color terciario: #F6BD60
+color cuarto: #F7EDE2
+color quinto: #F28482
+*/
+
+
+
+.listas{
+    color: #F5CAC3;
+    background-color: #F28482;
+    font-size: 17px;
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+.titulos{ 
+    color: #84A59D
+}
+
+
+.fondo{
+    background-color:#F5CAC3 ;
+}
+
+.mostaza{
+    color: #F6BD60;
+    font-size: 15px;
+}
+.fuente{
+    font-family: Verdana, Tahoma, sans-serif;
+}
